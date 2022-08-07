@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-GopuLalithya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/lalithya-kumar/)](https://www.https://www.linkedin.com/in/lalithya-kumar/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-GopuLalithya-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-GopuLalithya-yellow)](https://https://stackoverflow.com/users/19649325/lalithya-kumar)
 
 I'm
